@@ -55,6 +55,15 @@ The assistant continuously learns from user interactions, health data, and feedb
 ---
 
 ### RESULT
+#### Smart AI Nutrition Assistant Interface
+The Smart AI Nutrition Assistant is built using IBM Watsonx. The interface features:
+
+* **Agent Preview**: A preview of the AI agent.
+* **Sample Questions**: Pre-defined questions like "Personalized Meal Planning" and "Smart Food Swaps".
+* **Configuration Options**: Setup, Configuration, Knowledge, and Tools for customization.
+
+![Smart AI Nutrition Assistant Interface](image-url)
+
 ![image](https://github.com/user-attachments/assets/230bdfd7-0109-41e9-a9d9-f6ba1035daa6)
 
 ---
