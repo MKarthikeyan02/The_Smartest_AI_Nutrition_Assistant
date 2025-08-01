@@ -93,7 +93,7 @@ The assistant continuously learns from user interactions, health data, and feedb
 6. **Research and Development**
    * Continuous improvement through AI research
    * Partnership with health institutions
-   * 
+   
 ---
 
 ### CONCLUSION 
