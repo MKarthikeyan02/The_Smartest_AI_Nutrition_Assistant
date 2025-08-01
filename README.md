@@ -26,7 +26,7 @@ To address the challenges of personalized nutrition guidance, we propose the dev
 
 ---
 
-### TECHNOLOGY CLOUD SERVICES USED
+### IBM CLOUD SERVICES USED
 * IBM Cloud Watsonx AI Studio
 * IBM Cloud Watsonx AI Runtime
 * IBM Cloud Agent Lab
@@ -69,6 +69,7 @@ The assistant continuously learns from user interactions, health data, and feedb
 ![image](https://github.com/user-attachments/assets/94dad4f0-abe6-4e3c-86af-a6ee20d8d725)
 
 ---
+
 ### FUTURE SCOPE 
 1. **Expansion of Personalization Capabilities**
    * Advanced data integration
