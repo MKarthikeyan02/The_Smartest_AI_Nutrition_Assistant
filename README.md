@@ -55,7 +55,8 @@ The assistant continuously learns from user interactions, health data, and feedb
 ---
 
 ### RESULTS
-#### Smart AI Nutrition Assistant Interface
+
+### Smart AI Nutrition Assistant Interface
 The Smart AI Nutrition Assistant is built using IBM Watsonx. The interface features:
 
 * **Agent Preview**: A preview of the AI agent.
@@ -66,7 +67,6 @@ The Smart AI Nutrition Assistant is built using IBM Watsonx. The interface featu
 
 ---
 
-### RESULTS
 ### Smart AI Nutrition Assistant Chat Interface
 The Smart AI Nutrition Assistant is designed to help users create personalized meal plans for weight loss. The chat interface features a conversation between the user and the AI assistant, where the AI asks for specific details to tailor the meal plan.
 
@@ -89,9 +89,19 @@ The Smart AI Nutrition Assistant is designed to help users create personalized m
 
 ---
 
-### RESULT
-###### DEPLOYED AI AGENT
-![image](https://github.com/user-attachments/assets/94dad4f0-abe6-4e3c-86af-a6ee20d8d725)
+### DEPLOYED AI AGENT
+## Smart AI Nutrition Assistant
+The Smart AI Nutrition Assistant is a tool designed to provide users with detailed nutritional information about various dishes.
+
+### Key Features
+* Provides detailed nutritional information about various dishes
+* Uses AI to analyze ingredients and cooking methods
+* Presents information in a clean and easy-to-read format
+
+### Benefits
+The Smart AI Nutrition Assistant is a valuable tool for individuals looking to make informed dietary choices. By providing accurate and detailed nutritional information, users can better understand the nutritional value of their meals.
+
+![Smart AI Nutrition Assistant](https://github.com/user-attachments/assets/94dad4f0-abe6-4e3c-86af-a6ee20d8d725)
 
 ---
 
