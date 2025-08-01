@@ -1,4 +1,4 @@
-<img width="958" height="564" alt="image" src="https://github.com/user-attachments/assets/3c2f2c7a-3712-42eb-b8f2-b7adf57b1ccc" />The Smartest AI Nutrition Assistant
+The Smartest AI Nutrition Assistant
 
 An AI-powered tool that provides personalized nutrition guidance, meal planning and healthy eating advice. It helps users achieve their health goals through tailored recommendations and insights.
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -18,7 +18,6 @@ To address the challenges of personalized nutrition guidance, we propose the dev
     * Contextual Explanations and Education
     * Real-Time Adaptability
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
-
 TECHNOLOGY USED
 
 IBM Cloud Lite Services
@@ -58,10 +57,20 @@ ________________________________________________________________________________
 RESULT
 
 <img width="1809" height="780" alt="image" src="https://github.com/user-attachments/assets/230bdfd7-0109-41e9-a9d9-f6ba1035daa6" />
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+RESULT
 
 
+![Uploading image.png…]()
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+RESULT 
 
+DEPLOYED AI AGENT
+
+![Uploading image.png…]()
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 
