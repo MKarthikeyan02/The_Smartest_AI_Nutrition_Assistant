@@ -90,16 +90,7 @@ The Smart AI Nutrition Assistant is designed to help users create personalized m
 ---
 
 ### DEPLOYED AI AGENT
-## Smart AI Nutrition Assistant
-The Smart AI Nutrition Assistant is a tool designed to provide users with detailed nutritional information about various dishes.
-
-### Key Features
-* Provides detailed nutritional information about various dishes
-* Uses AI to analyze ingredients and cooking methods
-* Presents information in a clean and easy-to-read format
-
-### Benefits
-The Smart AI Nutrition Assistant is a valuable tool for individuals looking to make informed dietary choices. By providing accurate and detailed nutritional information, users can better understand the nutritional value of their meals.
+### Smart AI Nutrition Assistant after Deployment 
 
 ![Smart AI Nutrition Assistant](https://github.com/user-attachments/assets/94dad4f0-abe6-4e3c-86af-a6ee20d8d725)
 
