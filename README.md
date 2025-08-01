@@ -1,4 +1,10 @@
-# The_Smartest_AI_Nutrition_Assistant
+The Smartest AI Nutrition Assistant
 An AI-powered tool that provides personalized nutrition guidance, meal planning and healthy eating advice. It helps users achieve their health goals through tailored recommendations and insights.
 
-![hi](https://www.google.com/imgres?q=smart%20ai%20nutrition%20assistant%20using%20agentic%20ai%20pictures&imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-photo%2Fai-agents-business-analyze-businesses-600nw-2577839733.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fagentic-ai&docid=HI0PoDYSd71TgM&tbnid=7a8zUj8lDdHtCM&vet=12ahUKEwjCqZyF7OmOAxXQ2DgGHdaaC6wQM3oECGwQAA..i&w=600&h=338&hcb=2&ved=2ahUKEwjCqZyF7OmOAxXQ2DgGHdaaC6wQM3oECGwQAA)
+PROBLEM STATEMENT
+
+In today's health-conscious society, individuals are increasingly seeking personalized nutrition guidance that goes beyond generic diet plans. Existing tools often fail to provide real-time adaptability and do not consider the holistic aspects of a person's lifestyle, including cultural preferences, allergies and evolving health conditions. Additionally, dieticians and nutritionists face significant challenges in scaling personalized consultations due to time and resource constraints.
+
+Generative AI offers a transformative opportunity to address these challenges by creating an intelligent, interactive and adaptive virtual nutrition assistant. This project aims to develop "The Smartest AI Nutrition Assistant" leveraging state-of-the-art generative AI models to deliver a comprehensive and personalized nutrition experience. 
+
+
