@@ -1,14 +1,14 @@
 <h1>THE SMARTEST AI NUTRITION ASSISTANT</h1>
 <hr>
 An AI-powered tool that provides personalized nutrition guidance, meal planning and healthy eating advice. It helps users achieve their health goals through tailored recommendations and insights.
-___________________________________________________________________________________________________________________________________________________________________________________________
+<hr>
 
 PROBLEM STATEMENT
 
 In today's health-conscious society, individuals are increasingly seeking personalized nutrition guidance that goes beyond generic diet plans. Existing tools often fail to provide real-time adaptability and do not consider the holistic aspects of a person's lifestyle, including cultural preferences, allergies and evolving health conditions. Additionally, dieticians and nutritionists face significant challenges in scaling personalized consultations due to time and resource constraints.
 
 Generative AI offers a transformative opportunity to address these challenges by creating an intelligent, interactive and adaptive virtual nutrition assistant. This project aims to develop "The Smartest AI Nutrition Assistant" leveraging state-of-the-art generative AI models to deliver a comprehensive and personalized nutrition experience. 
-___________________________________________________________________________________________________________________________________________________________________________________________
+<hr>
 
 PROPOSED SOLUTION
 
@@ -17,14 +17,14 @@ To address the challenges of personalized nutrition guidance, we propose the dev
     * User-Friendly Interface
     * Contextual Explanations and Education
     * Real-Time Adaptability
-___________________________________________________________________________________________________________________________________________________________________________________________
+<hr>
 
 TECHNOLOGY USED
 
 IBM Cloud Lite Services
 Natural Language Processing (NLP)
 IBM Granite Model
-___________________________________________________________________________________________________________________________________________________________________________________________
+<hr>
 
 TECHNOLOGY CLOUD SERVICES USED
 
@@ -32,7 +32,7 @@ IBM Cloud Watsonx AI Studio
 IBM Cloud Watsonx AI Runtime
 IBM Cloud Agent Lab
 IBM Granite Foundation Model
-___________________________________________________________________________________________________________________________________________________________________________________________
+<hr>
 
 WOW FACTORS
 
@@ -43,7 +43,7 @@ Real-time nutrient analysis: Provide instant analysis of nutritional content, in
 Smart grocery shopping: Generate grocery lists, suggest healthy alternatives, and offer in-store navigation.
 Conversational interface: Engage users with a friendly, conversational AI assistant that provides personalized guidance and support.
 Dynamic meal planning adjustments: Continuously update meal plans based on user feedback, progress, and changing dietary needs.
-___________________________________________________________________________________________________________________________________________________________________________________________
+<hr>
 
 END USERS
 
@@ -53,24 +53,24 @@ Fitness Enthusiasts and Athletes
 Busy Professionals and Families
 Nutrition Students and Professionals
 Health Coaches and Dietitians
-___________________________________________________________________________________________________________________________________________________________________________________________
+<hr>
 
 RESULT
 
 <img width="1809" height="780" alt="image" src="https://github.com/user-attachments/assets/230bdfd7-0109-41e9-a9d9-f6ba1035daa6" />
-___________________________________________________________________________________________________________________________________________________________________________________________
+<hr>
 
 RESULT
 
 <img width="933" height="746" alt="image" src="https://github.com/user-attachments/assets/8f40be0e-f208-467a-b518-6048e63b1336" />
-___________________________________________________________________________________________________________________________________________________________________________________________
+<hr>
 
 RESULT 
 
 DEPLOYED AI AGENT
 
 <img width="1798" height="859" alt="image" src="https://github.com/user-attachments/assets/94dad4f0-abe6-4e3c-86af-a6ee20d8d725" />
-___________________________________________________________________________________________________________________________________________________________________________________________
+<hr>
 
 
 
