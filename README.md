@@ -1,5 +1,5 @@
 <h1>THE SMARTEST AI NUTRITION ASSISTANT</h1>
-<hr>
+
 An AI-powered tool that provides personalized nutrition guidance, meal planning and healthy eating advice. It helps users achieve their health goals through tailored recommendations and insights.
 <hr>
 
@@ -13,10 +13,19 @@ Generative AI offers a transformative opportunity to address these challenges by
 <h3>PROPOSED SOLUTION</h3>
 
 To address the challenges of personalized nutrition guidance, we propose the development of "The Smartest AI Nutrition Assistant“, aims to revolutionize personalized nutrition by providing an intelligent, adaptive and user-centric solution. By combining advanced AI technologies with deep understanding of individual needs, this platform will empower users to make informed dietary choices, ultimately enhancing their health and well-being. The solution will encompass the following components:
-    * Personalized Meal Planning
-    * User-Friendly Interface
-    * Contextual Explanations and Education
-    * Real-Time Adaptability
+1. Personalized Meal Planning
+2. User-Friendly Interface
+3. Contextual Explanations and Education
+4. Real-Time Adaptability
+
+<ol>
+  <li>Personalized Meal Planning</li>
+  <li>User-Friendly Interface</li>
+  <li>Contextual Explanations and Education</li>
+  <li>Real-Time Adaptability</li>
+</ol>
+
+
 <hr>
 
 <h3>TECHNOLOGY USED</h3>
