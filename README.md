@@ -11,10 +11,10 @@ ________________________________________________________________________________
 PROPOSED SOLUTION
 
 To address the challenges of personalized nutrition guidance, we propose the development of "The Smartest AI Nutrition Assistant“, aims to revolutionize personalized nutrition by providing an intelligent, adaptive and user-centric solution. By combining advanced AI technologies with deep understanding of individual needs, this platform will empower users to make informed dietary choices, ultimately enhancing their health and well-being. The solution will encompass the following components:
-    Personalized Meal Planning
-    User-Friendly Interface
-    Contextual Explanations and Education
-    Real-Time Adaptability
+    . Personalized Meal Planning
+    . User-Friendly Interface
+    . Contextual Explanations and Education
+    . Real-Time Adaptability
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
