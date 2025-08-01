@@ -1,4 +1,4 @@
-The Smartest AI Nutrition Assistant
+<u>The Smartest AI Nutrition Assistant</u>
 An AI-powered tool that provides personalized nutrition guidance, meal planning and healthy eating advice. It helps users achieve their health goals through tailored recommendations and insights.
 
 PROBLEM STATEMENT
