@@ -35,7 +35,7 @@ To address the challenges of personalized nutrition guidance, we propose the dev
 ---
 
 ### WOW FACTORS
-* The assistant continuously learns from user interactions, health data, and feedback to provide personalized meal plans and recommendations that evolve with the user's lifestyle, preferences, and health conditions.
+The assistant continuously learns from user interactions, health data, and feedback to provide personalized meal plans and recommendations that evolve with the user's lifestyle, preferences, and health conditions.
 * Personalized meal planning with AI-generated recipes: Create customized meal plans with unique recipes tailored to individual tastes, dietary needs, and health goals.
 * Real-time nutrient analysis: Provide instant analysis of nutritional content, including macronutrients, micronutrients, and potential allergens.
 * Smart grocery shopping: Generate grocery lists, suggest healthy alternatives, and offer in-store navigation.
