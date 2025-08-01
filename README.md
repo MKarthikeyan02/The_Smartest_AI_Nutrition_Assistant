@@ -54,7 +54,7 @@ The assistant continuously learns from user interactions, health data, and feedb
 
 ---
 
-### RESULT
+### RESULTS
 #### Smart AI Nutrition Assistant Interface
 The Smart AI Nutrition Assistant is built using IBM Watsonx. The interface features:
 
@@ -62,14 +62,30 @@ The Smart AI Nutrition Assistant is built using IBM Watsonx. The interface featu
 * **Sample Questions**: Pre-defined questions like "Personalized Meal Planning" and "Smart Food Swaps".
 * **Configuration Options**: Setup, Configuration, Knowledge, and Tools for customization.
 
-![Smart AI Nutrition Assistant Interface](image-url)
-
-![image](https://github.com/user-attachments/assets/230bdfd7-0109-41e9-a9d9-f6ba1035daa6)
+![Smart AI Nutrition Assistant Interface](https://github.com/user-attachments/assets/230bdfd7-0109-41e9-a9d9-f6ba1035daa6)
 
 ---
 
-### RESULT
-![image](https://github.com/user-attachments/assets/8f40be0e-f208-467a-b518-6048e63b1336)
+### RESULTS
+### Smart AI Nutrition Assistant Chat Interface
+The Smart AI Nutrition Assistant is designed to help users create personalized meal plans for weight loss. The chat interface features a conversation between the user and the AI assistant, where the AI asks for specific details to tailor the meal plan.
+
+#### Conversation Flow
+1. **User Request**: The user requests a meal plan for weight loss.
+2. **AI Response**: The AI assistant responds with a set of questions to gather more information, including:
+   - Dietary preferences or restrictions
+   - Food allergies
+   - Average daily calorie intake
+   - Activity level
+   - Disliked foods or preferred meals
+
+3. **General Tips**: The AI provides general tips for weight loss, including:
+   - Focusing on whole, unprocessed foods
+   - Controlling portion sizes
+   - Staying hydrated
+   - Limiting added sugars, sodium, and saturated fats
+
+![Smart AI Nutrition Assistant Chat Interface](https://github.com/user-attachments/assets/8f40be0e-f208-467a-b518-6048e63b1336)
 
 ---
 
