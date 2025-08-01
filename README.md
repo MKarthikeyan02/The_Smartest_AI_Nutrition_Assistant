@@ -1,4 +1,4 @@
-The Smartest AI Nutrition Assistant
+<img width="3988" height="94" alt="image" src="https://github.com/user-attachments/assets/912baa01-df03-4e6f-9c97-88c2c567f3a4" /><img width="769" height="376" alt="image" src="https://github.com/user-attachments/assets/5107104f-b8b0-47d8-bee9-43e7e7dc453c" /><img width="864" height="286" alt="image" src="https://github.com/user-attachments/assets/a5ea16a8-890d-4d82-8cc9-d26c19ba0b4a" />The Smartest AI Nutrition Assistant
     An AI-powered tool that provides personalized nutrition guidance, meal planning and healthy eating advice. It helps users achieve their health goals through tailored recommendations and insights.
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -17,6 +17,41 @@ To address the challenges of personalized nutrition guidance, we propose the dev
     * Contextual Explanations and Education
     * Real-Time Adaptability
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+TECHNOLOGY USED
+
+IBM Cloud Lite Services
+Natural Language Processing (NLP)
+IBM Granite Model
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+TECHNOLOGY CLOUD SERVICES USED
+
+IBM Cloud Watsonx AI Studio
+IBM Cloud Watsonx AI Runtime
+IBM Cloud Agent Lab
+IBM Granite Foundation Model
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+WOW FACTORS
+
+The assistant continously learns from user interactions, health data and feedback to provide personalized meal plan amd recommendations that evolve with the user's lifestyle, preferences and health conditions.
+
+Personalized meal planning with AI-generated recipes: Create customized meal plans with unique recipes tailored to individual tastes, dietary needs, and health goals.
+Real-time nutrient analysis: Provide instant analysis of nutritional content, including macronutrients, micronutrients, and potential allergens.
+Smart grocery shopping: Generate grocery lists, suggest healthy alternatives, and offer in-store navigation.
+Conversational interface: Engage users with a friendly, conversational AI assistant that provides personalized guidance and support.
+Dynamic meal planning adjustments: Continuously update meal plans based on user feedback, progress, and changing dietary needs.
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
 
 
 
