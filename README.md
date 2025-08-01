@@ -1,5 +1,6 @@
-<img width="3988" height="94" alt="image" src="https://github.com/user-attachments/assets/912baa01-df03-4e6f-9c97-88c2c567f3a4" /><img width="769" height="376" alt="image" src="https://github.com/user-attachments/assets/5107104f-b8b0-47d8-bee9-43e7e7dc453c" /><img width="864" height="286" alt="image" src="https://github.com/user-attachments/assets/a5ea16a8-890d-4d82-8cc9-d26c19ba0b4a" />The Smartest AI Nutrition Assistant
-    An AI-powered tool that provides personalized nutrition guidance, meal planning and healthy eating advice. It helps users achieve their health goals through tailored recommendations and insights.
+<img width="958" height="564" alt="image" src="https://github.com/user-attachments/assets/3c2f2c7a-3712-42eb-b8f2-b7adf57b1ccc" />The Smartest AI Nutrition Assistant
+
+An AI-powered tool that provides personalized nutrition guidance, meal planning and healthy eating advice. It helps users achieve their health goals through tailored recommendations and insights.
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 PROBLEM STATEMENT
@@ -43,6 +44,20 @@ Smart grocery shopping: Generate grocery lists, suggest healthy alternatives, an
 Conversational interface: Engage users with a friendly, conversational AI assistant that provides personalized guidance and support.
 Dynamic meal planning adjustments: Continuously update meal plans based on user feedback, progress, and changing dietary needs.
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+END USERS
+
+Health-Conscious Individuals
+Individuals Managing Health Conditions
+Fitness Enthusiasts and Athletes
+Busy Professionals and Families
+Nutrition Students and Professionals
+Health Coaches and Dietitians
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+RESULT
+
+<img width="1809" height="780" alt="image" src="https://github.com/user-attachments/assets/230bdfd7-0109-41e9-a9d9-f6ba1035daa6" />
 
 
 
