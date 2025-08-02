@@ -77,6 +77,21 @@ The Smart AI Nutrition Assistant is designed to help users create personalized n
 
 ---
 
+## How to Run or Deploy the Smart AI Nutrition Assistant
+To deploy the Smart AI Nutrition Assistant, follow these steps:
+
+1. **Log in to IBM Cloud Lite**: https://cloud.ibm.com
+2. **Launch Watsonx.ai Studio**: Access the Watsonx.ai Studio to start building your AI assistant.
+3. **Create a new AI Agent**: Design a new AI agent tailored to provide personalized nutrition guidance.
+4. **Select Foundational Model: Granite**: Choose the Granite model as the foundational model for your AI assistant
+5. **Upload Nutritional Data to a Vector Index**: Upload relevant nutritional data to a vector index for efficient information retrieval.
+6. **Choose Tools for Web Search**: Select tools for web search, such as Google, Wikipedia, or DuckDuckGo, to gather additional information.
+7. **Configure Agent Instructions and Topics**: Configure the AI agent's instructions and topics to ensure it provides accurate and relevant responses, restricting off-topic questions politely.
+8. **Test in the Preview Panel**: Test the AI assistant in the preview panel to ensure it functions as expected.
+9. **Deploy via Web Snippet, Streamlit, or Custom Web UI**: Deploy the AI assistant via a web snippet, Streamlit, or a custom web UI to make it accessible to users.
+    
+---
+
 ### FUTURE SCOPE 
 1. **Expansion of Personalization Capabilities**
    * Advanced data integration
