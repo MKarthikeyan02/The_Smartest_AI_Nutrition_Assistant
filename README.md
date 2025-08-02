@@ -77,6 +77,17 @@ The Smart AI Nutrition Assistant is designed to help users create personalized n
 
 ---
 
+## How it Works
+The Smart AI Nutrition Assistant is a conversational AI platform that provides personalized nutrition guidance to users. Here's a step-by-step explanation of how it works:
+
+1. **User Input**: The user interacts with the assistant by typing a query or selecting a sample question.
+2. **AI Model Processing**: The assistant uses the input to generate a response, powered by the selected AI model.
+3. **Knowledge Retrieval**: The AI model retrieves relevant information from the knowledge base.
+4. **Response Generation**: The AI model generates a response based on the user's input and the retrieved knowledge.
+5. **Response Display**: The response is displayed to the user, providing personalized nutrition guidance and recommendations.
+
+---
+
 ## How to Run or Deploy the Smart AI Nutrition Assistant
 To deploy the Smart AI Nutrition Assistant, follow these steps:
 
