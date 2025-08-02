@@ -77,7 +77,7 @@ The Smart AI Nutrition Assistant is designed to help users create personalized n
 
 ---
 
-## How it Works
+##HOW IT WORKS
 The Smart AI Nutrition Assistant is a conversational AI platform that provides personalized nutrition guidance to users. Here's a step-by-step explanation of how it works:
 
 1. **User Input**: The user interacts with the assistant by typing a query or selecting a sample question.
@@ -88,7 +88,7 @@ The Smart AI Nutrition Assistant is a conversational AI platform that provides p
 
 ---
 
-## How to Run or Deploy the Smart AI Nutrition Assistant
+##HOW TO RUN OR DEPLOY THE SMART AI NUTRITION ASSISTANT 
 To deploy the Smart AI Nutrition Assistant, follow these steps:
 
 1. **Log in to IBM Cloud Lite**: https://cloud.ibm.com
@@ -135,10 +135,6 @@ The Smartest AI Nutrition Assistant represents a groundbreaking advancement in p
 
 ---
 
-## Reference Links
-* **[IBM Cloud Lite](https://www.ibm.com/cloud/lite)**
-* **[IBM Watsonx.ai](https://www.ibm.com/watsonx/ai)**
-* **[Nutritionix API](https://www.nutritionix.com/)**
-* **[USDA Database](https://ndb.nal.usda.gov/)**
+
 
 ---
