@@ -135,11 +135,10 @@ The Smartest AI Nutrition Assistant represents a groundbreaking advancement in p
 
 ---
 
-## Useful Links
-* **[IBM Cloud Lite](https://www.ibm.com/cloud/lite)**: A free tier of IBM Cloud services, ideal for development and testing of AI models.
-* **[IBM Watsonx.ai](https://www.ibm.com/watsonx/ai)**: A platform for building and deploying AI models, including natural language processing (NLP) and computer vision.
-* **[USDA Database](https://ndb.nal.usda.gov/)**: A comprehensive database of nutritional information for various foods, useful for training AI models.
-* **[National Institutes of Health (NIH) Nutrition Data](https://ods.od.nih.gov/HealthInformation/NutritionData.aspx)**: A collection of nutrition data and resources from the NIH, providing valuable insights for AI-powered nutrition assistance.
-* **[IBM SkillsBuild](https://skillsbuild.org/)**: A platform offering training and resources for AI and machine learning development, helpful for building and deploying AI models.
+## Reference Links
+* **[IBM Cloud Lite](https://www.ibm.com/cloud/lite)**
+* **[IBM Watsonx.ai](https://www.ibm.com/watsonx/ai)**
+* **[Nutritionix API](https://www.nutritionix.com/)**
+* **[USDA Database](https://ndb.nal.usda.gov/)**
 
 ---
