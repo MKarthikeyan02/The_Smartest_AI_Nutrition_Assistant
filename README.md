@@ -134,3 +134,12 @@ To deploy the Smart AI Nutrition Assistant, follow these steps:
 The Smartest AI Nutrition Assistant represents a groundbreaking advancement in personalized nutrition guidance, addressing the growing demand for tailored dietary solutions in an increasingly health-conscious society. As we look to the future, the potential for this project is vast. With ongoing advancements in AI, data integration, and user experience design, the Smartest AI Nutrition Assistant can evolve to meet the diverse needs of users worldwide, making personalized nutrition accessible and enjoyable for all. Ultimately, this project aims to revolutionize the way individuals approach their health, transforming nutrition from a one-size-fits-all solution into a personalized journey that promotes well-being and empowers users to thrive.
 
 ---
+
+## Useful Links
+* **[IBM Cloud Lite](https://www.ibm.com/cloud/lite)**: A free tier of IBM Cloud services, ideal for development and testing of AI models.
+* **[IBM Watsonx.ai](https://www.ibm.com/watsonx/ai)**: A platform for building and deploying AI models, including natural language processing (NLP) and computer vision.
+* **[USDA Database](https://ndb.nal.usda.gov/)**: A comprehensive database of nutritional information for various foods, useful for training AI models.
+* **[National Institutes of Health (NIH) Nutrition Data](https://ods.od.nih.gov/HealthInformation/NutritionData.aspx)**: A collection of nutrition data and resources from the NIH, providing valuable insights for AI-powered nutrition assistance.
+* **[IBM SkillsBuild](https://skillsbuild.org/)**: A platform offering training and resources for AI and machine learning development, helpful for building and deploying AI models.
+
+---
