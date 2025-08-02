@@ -140,7 +140,6 @@ The Smartest AI Nutrition Assistant represents a groundbreaking advancement in p
 1. [IBM Cloud Lite](https://www.ibm.com/cloud/lite) - Explore IBM's cloud services and how to get started with Lite plans.
 2. [IBM Watson NLP](https://www.ibm.com/watson/natural-language-processing) - Learn about IBM Watson's capabilities in natural language processing.
 3. [What is Generative AI?](https://www.ibm.com/cloud/learn/generative-ai) - An introduction to generative AI and its applications.
-4. [AI in Nutrition](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7461234/) - A research article discussing the role of AI in personalized nutrition.
-5. [USDA FoodData Central](https://fdc.nal.usda.gov/) - Access a comprehensive food database for nutritional information.
+4. [USDA FoodData Central](https://fdc.nal.usda.gov/) - Access a comprehensive food database for nutritional information.
 
 ---
